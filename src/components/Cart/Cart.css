@@ -1,0 +1,11 @@
+.cart {
+    text-align: center;
+}
+.cart button {
+    background-color: lightseagreen;
+    width: 150px;
+    height: 30px;
+    border: 1px solid lightseagreen;
+    border-radius: 10px;
+    cursor: pointer;
+}
